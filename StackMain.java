@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class Stack {
-    private int maxsize = 10;
+    private int maxsize = 3;
     private int top;
     private int[] stackarray;
 
