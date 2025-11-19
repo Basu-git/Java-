@@ -1,5 +1,5 @@
 🎯 Repository Overview
-This repository hosts a curated collection of Object-Oriented Programming (OOP) lab assignments completed as part of the B.Tech (Artificial Intelligence and Data Science) curriculum in the 3rd Semester. The programs are designed to provide a foundational mastery of core Java principles while laying the groundwork for advanced data structures and AI/DS implementation.
+This repository hosts a curated collection of Object-Oriented Programming (OOP) lab assignments completed as part of the B.Tech (Artificial Intelligence and Data Science) curriculum in the 3rd Semester. The programs are designed to provide a foundational mastery of core Java principles while laying the groundwork for advanced data structures and AI/DS implementation..
 
 Key Focus Areas
 This repository primarily demonstrates proficiency in:
