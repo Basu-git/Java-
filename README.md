@@ -10,5 +10,5 @@ Object-Oriented Paradigm (OOP): Practical implementation of the four pillars—E
 
 Data Structures: Elementary implementations of fundamental data structures (e.g., Arrays, Strings, basic Lists) in Java.
 
-Advanced Features: Introduction to Exception Handling and Multithreading for building reliable and concurrent applications.
+Advanced Features: Introduction to Exception Handling and Multithreading for building reliable and concurrent applications..
 ......
